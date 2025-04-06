@@ -16,7 +16,11 @@ Número total de transacciones para cada tipo ("Crédito" y "Débito").
 - Python 3.7 o superior
 - Dependencias:
   - `questionary` para la interfaz interactiva
- 
+<h2> Cómo usarlo </h2>
+1. Guardar el archivo python dentro de la biblioteca usada para el python
+2. Iniciar el cmd
+3. Ejecutar con python
+
 <h2>Formato esperado del CSV</h2>
 El archivo debe tener las siguientes columnas:
 id,tipo,monto
